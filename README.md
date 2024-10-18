@@ -66,12 +66,6 @@ switch (diaDaSemana) {
 Esta otimização é equivalente com a utilização do operador OU, que é o caractere "|".
 > **_A principal vantagem do switch... case é a facilidade para compreender a sua estrutura, sendo extremamente intuitivo._**
 
-### Exemplos
-* [Exemplo 1 - Mês do Ano](exemploSC_01.html)
-* [Exemplo 2 - Dia da Semana](exemploSC_02.html)
-* [Exemplo 3 - Idade Humana](exemploSC_03.html)
-
-
 ##### Alguns links para estudos complementares
 
 * [Developer.mozilla - Switch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch)
